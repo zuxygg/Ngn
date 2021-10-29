@@ -49,8 +49,8 @@ after start it you need to scan the qr
 ### Contact me
 
 
-- [WHATSAPP](http://wa.me/6281220670449)
-- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/EymjfVUattCJSGg58WPvrd)
+- [WHATSAPP](http://wa.me/6283144394823)
+- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/H2dvuYaI3SbKURzstwl7Wn)
 
 
 ## 🙏 Special Thanks to
