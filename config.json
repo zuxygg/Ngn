@@ -1,0 +1,13 @@
+{	
+	"prefix": "multi", 
+	"defaultSessionName": "kurrxd", 
+	"zeksKey": "CpGSLymOQy9KfTKgQZr9eDSYqqR",
+	"autoRead": true,
+	"self": false, 
+	"maxLimit": 30,
+	"ownerList": ["6283144394823@s.whatsapp.net", "6283144394823@s.whatsapp.net"],
+	"apiUrl": "https://api.zeks.me",
+    "imgUrl": "https://i.postimg.cc/qvZVXBC0/virgam2.png",
+	"pack": "Dah lah",
+	"author": "Hanz ofc"
+}
